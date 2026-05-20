@@ -1,0 +1,551 @@
+
+Appendix 5: Methodology
+
+To illustrate the method, consider the tables below.  In Table 1, column B shows the time at which a particular car arrives. For example, car 1 finally arrives at the 9th second from the start of metering we can see that the figure '1' appears finally on the corresponding cell in the column C. Similarly the 1st car  finally leaves in the 12th second from the start of metering. The Right Side of Table 1 illustrates the vehicle indexing method. Column P shows the index number of the individual cars and the same final arrival and departure times for each of the cars is shown in the columns Q and R separately. Finally the column S shows the delay of the corresponding individual cars. Vehicle 3 is highlighted with boxes for tracking.
+
+Table 2 gives the new OD pairs considered for calculation of accessibility.  These have been replaced from old OD pairs because either there is no exit ramp at that location or they are far away from the ramps under consideration.  These new pairs will give us accurate estimate of travel time.  The distances between these new pairs was calculated from the handbook and compared with the distances from the data provided.  The correction factor is obtained and applied to the distance for calibration purposes.  As, 
+
+This will give the average space mean speed at each station. Then average speed for each freeway segment is obtained by taking averages of the average space mean speed. This means that first the average speed of each detector station is obtained for the peak hour period. Then depending upon OD pairs, the average freeway speed is obtained by summing up the upstream and down stream detectors station.  This will give us the average space mean speed for that freeway section.  As an example, the average speed between Cretin Avenue and Dale Street is shown in Table 1. This average speed is then used to estimate the approximate travel time between the exit ramps. 
+If people perceive time differently, then it is necessary to measure accessibility of the system. Greater the accessibility of land is, greater will be its value.  For example, the land value in downtown area is more, as it is more accessible to business areas as compared to suburban areas.  In case of transportation network, people living near freeways have more accessibility.  Accessibility of transportation network is more if time consumed to reach a particular destination is less.  For example if person X has two choices, he can either take route A (congested freeway) or route B (un-congested surface arterial).  The freeway time consists of wait time on ramp and freeway travel time.  Whereas the time on surface arterial consists of wait time at signals and surface street travel time.  Since we are assuming that time to travel on Surface Street is less as compared to freeway, therefore route B is more accessible than route A.
+
+ EMBED Word.Picture.8  Legend
+Red Arrow – Path A
+Black Arrow – Path B
+
+Table of Variables
+Variable
+Description
+qk      
+the arrival rate of time interval k (vehicles/hour)
+Qk  
+the departure rate of time interval k (vehicles/hour)
+nk
+the queue length of time interval k (number of vehicles)
+hk 
+average time headway in time interval k (sec)
+tv
+arrival time for vehicle  v
+Tv 
+departure time of vehicle v
+dv  
+delay of vehicle v  (sec)
+ EMBED Equation.3  
+space mean speed of detector l in time interval k (mile/sec)
+Qkl 
+volume of detector l in time interval k (vehicles/hour)
+l
+the effective length of vehicles (26 feet).
+(average vehicle length  plus the length of the loop detector)(Gerlough and Huber 1975) 
+Kkl 
+time occupancy of the 1st (2nd) detector in time interval k (%)
+τk
+travel time of time interval k (sec) 
+L
+the length of a freeway segment (mile)
+
+
+Table 1: Calculation of average speeds
+
+I-94 Ramp On Case
+
+
+
+Highway
+Start
+Station
+Detectors
+Speed
+Speed from
+Formula 1
+Volume
+Weighted Space mean
+speed
+Avg. Speed
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lexington ave.
+489
+2638
+60.970
+72.055
+3472
+
+
+ 
+
+2639
+59.610
+70.448
+4994
+
+
+ 
+
+2640
+54.732
+64.683
+5663
+
+
+ 
+
+2641
+70.567
+83.397
+6468
+
+
+ 
+
+
+
+
+20597
+73.200
+63.560
+ 
+
+
+
+
+
+
+
+Dale St.
+490
+2643
+57.802
+68.311
+4035
+
+
+ 
+
+2644
+56.499
+66.771
+4574
+
+
+ 
+
+2645
+59.843
+70.724
+5794
+
+
+ 
+
+2646
+63.472
+75.012
+6798
+
+
+ 
+
+
+
+
+21201
+70.787
+71.994
+ 
+
+
+
+
+
+
+
+Marion St.
+491
+2648
+59.578
+70.410
+5466
+
+
+ 
+
+2649
+56.137
+66.343
+6366
+
+
+ 
+
+2650
+54.576
+64.499
+7536
+
+
+ 
+
+
+
+
+19368
+66.774
+68.780
+
+Table 2.  New OD pairs
+
+OLD pairs
+New pairs 
+Olson Hwy - Lyndale 
+Olson hwy - I-394
+Olson hwy - 5th Ave.
+Olson hwy - I35W
+Olson hwy - cedar
+Olson hwy - TH55
+Olson hwy - riverside
+Olson hwy - 25th Ave.
+Olson hwy - cretin
+Olson hwy - cretin
+Olson hwy - Lexington
+Olson hwy - Lexington
+Olson hwy - dale
+Olson hwy - dale
+Olson hwy - Marion
+Olson hwy - Marion
+5th Ave. - cedar Ave.
+I35W - TH 55
+5th Ave. - riverside Ave.
+I35W - 25th Ave
+5th Ave. - cretin Ave.
+I35W - cretin
+5th Ave. - Lexington Ave.
+I35W - Lexington
+5th Ave. - dale
+I35W - dale
+5th Ave. - Marion
+I35W - Marion
+Cedar Ave. - riverside Ave.
+TH55- 25th Ave.
+Cedar Ave. - cretin Ave.
+TH55- cretin
+Cedar Ave. - Lexington
+TH55- Lexington
+Cedar Ave. - dale
+TH55- dale
+Cedar Ave. - Marion
+TH55- Marion
+Riverside - cretin
+25th - cretin
+Riverside - Lexington
+25th - Lexington
+Riverside - dale
+25th - dale
+Riverside - Marion
+25th - Marion
+Cretin - Lexington
+Cretin - Lexington
+Cretin - dale
+Cretin - dale
+Cretin - Marion
+Cretin - Marion
+Lexington - dale
+Lexington - dale
+Lexington - Marion
+Lexington - Marion
+Dale - Marion
+Dale – Marion
+
+
+
+
+
+
+
+Table 1: Spreadsheet of Vehicle Indexing Method
+A
+1 Second Intervals From The Time Queue Forms
+B
+Time At Which The Individual Cars Arrive
+C
+Time At Which The Individual Cars Depart
+
+P
+Serial Numbers Of Individual Cars.
+Q
+The Time In Seconds At Which Each Car Finally Departs.
+R
+The Time In Seconds At Which Each Car Finally Arrives.
+S
+Delays Of Each Individual Car.
+1
+#n/a
+#n/a
+
+1
+12
+9
+3
+2
+#n/a
+#n/a
+
+2
+18
+14
+4
+3
+#n/a
+#n/a
+
+3
+24
+19
+5
+4
+#n/a
+#n/a
+
+4
+31
+24
+7
+5
+1
+#n/a
+
+5
+37
+29
+8
+6
+1
+#n/a
+
+6
+43
+33
+10
+7
+1
+1
+
+7
+49
+38
+11
+8
+1
+1
+
+8
+56
+43
+13
+9
+1
+1
+
+9
+62
+48
+14
+10
+2
+1
+
+10
+68
+53
+15
+11
+2
+1
+
+11
+74
+58
+16
+12
+2
+1
+
+12
+81
+62
+19
+13
+2
+2
+
+13
+87
+67
+20
+14
+2
+2
+
+14
+93
+72
+21
+15
+3
+2
+
+15
+99
+77
+22
+16
+3
+2
+
+16
+106
+82
+24
+17
+3
+2
+
+17
+112
+87
+25
+18
+3
+2
+
+18
+118
+91
+27
+19
+3
+3
+
+19
+124
+96
+28
+20
+4
+3
+
+20
+131
+101
+30
+21
+4
+3
+
+21
+137
+106
+31
+22
+4
+3
+22
+143
+111
+32
+23
+4
+3
+
+23
+149
+116
+33
+24
+4
+3
+
+24
+156
+120
+36
+25
+5
+4
+
+25
+162
+125
+37
+26
+5
+4
+
+26
+168
+130
+38
+27
+5
+4
+
+27
+174
+135
+39
+28
+5
+4
+
+28
+181
+140
+41
+29
+5
+4
+
+29
+187
+145
+42
+
+
+
+
+30
+193
+149
+44
+
+
+
+
+
+
+ EMBED Word.Picture.8  
+Figure 3: Flowchart of Program
+
+
+Figure 4: Picture of Source Code and Output
+
+
+Figure 3: Illustration of Freeway Detectors
+
+Figure 4: Building Trip Times
+
+Figure 5: Delays on Ramp 3A1, Route 169
+
+Figure 2: Detail of Departure Rate
+
+

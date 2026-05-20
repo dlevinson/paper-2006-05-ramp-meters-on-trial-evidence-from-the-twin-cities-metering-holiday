@@ -1,0 +1,106 @@
+Appendix 3: Correlation Coefficients
+Correlation coefficients between mobility and equity are shown in Table A3-1 for the both cases.  Statistically significant relationships between mobility and equity are found with respect to the following mobility measures: total travel time, travel time per mile, freeway travel time per mile, speed and freeway speed.  Since the higher the Gini coefficient the lower the equity (perfect inequity = a Gini Coefficient of 1, perfect equity gives a Gini Coefficient = 0), Table 3 finds a positive relationship between mobility and equity when metering is on. A correlation coefficient of 1 indicates perfect correlation, a 0 indicates no relationship, and a -1 indicates perfect negative correlation.  For instance, the higher the travel time per mile, the higher the Gini coefficient, or the lower the mobility, the more unfair the system is. In contrast, without metering the correlation is relatively weak.  A hypothesis is that ramp meters can strengthen the relationship between mobility and equity.  More analyses on other freeway sections are needed to draw a conclusion about this.
+
+Again  within each case a positive correlation between mobility (most obviously, speed) and equity is found, seen in Table 3.  On Route 169, an interesting result is the higher correlation in ramp on case than ramp off case.  However, on I-94 , this is not true.  The conclusion that ramp meters can strengthen the relationship between mobility and equity cannot be drawn.  More analyses on other freeway networks are necessary. 
+
+No statistically significant relationships between mobility and equity are found at entrance ramps. Several reasons may account for the absence of a relationship:
+There may in fact be no relationship
+Ramp delays are calculated from two different types of data and this may skew delay calculation;
+Some upstream detectors may not provide correct counts.  
+Only 15 ramps were observed, this is a small sample, a larger sample may generate a relationship.
+
+Table A3-1   Correlation Coefficients Between Equity and Mobility
+
+
+Metering
+
+
+
+No Metering
+
+
+
+Equity
+Mobility
+Temporal Equity Gini
+
+Spatial Equity Gini 
+
+Temporal Equity Gini
+
+Spatial Equity Gini
+
+
+Route 169
+I-94
+Route 169
+I-94
+Route 169
+I-94
+Route 169
+I-94
+Travel Time
+-0.378
+-0.567
+-0.716
+-0.638
+0.056
+-0.169
+0.535
+0.214
+1/Speed
+0.53
+0.767
+0.814
+0.846
+0.323
+0.84
+-0.158
+0.927
+1/Freeway Speed
+0.82
+-0.03
+0.937
+0.726
+0.468
+0.84
+0.253
+0.927
+Speed
+-0.883
+-0.87
+-0.925
+-0.759
+-0.114
+-0.722
+0.126
+-0.934
+Freeway Speed
+-0.749
+0.02
+-0.96
+-0.732
+0.02
+-0.722
+-0.662
+-0.934
+Delay
+0.127
+-0.568
+-0.348
+0.244
+0.005
+-0.266
+-0.025
+0.109
+Delay/Distance
+-0.107
+0.245
+-0.292
+0.696
+0.158
+0.428
+-0.425
+0.679
+
+

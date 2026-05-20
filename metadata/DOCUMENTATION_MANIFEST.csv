@@ -1,0 +1,9 @@
+file,text_extract,role
+A1-Mobility.doc,A1-Mobility.txt,Mobility and equity result documentation.
+A2-Productivity.doc,A2-Productivity.txt,Consumer surplus and productivity calculation documentation.
+A3-Correlation.doc,A3-Correlation.txt,Correlation appendix documentation.
+A4-HeadwayDistributions.doc,A4-HeadwayDistributions.txt,Headway distribution appendix documentation.
+A5-Methodology.doc,A5-Methodology.txt,Methodology appendix documenting vehicle indexing, OD pair substitutions, detector speed calculations, and variables.
+A6-SourcesOfError.doc,A6-SourcesOfError.txt,Sources-of-error appendix documentation.
+A7-NLVT.doc,A7-NLVT.txt,NLVT appendix documentation.
+A8-Zonal Ramp Delay.doc,A8-Zonal-Ramp-Delay.txt,Zonal ramp-delay distribution documentation.

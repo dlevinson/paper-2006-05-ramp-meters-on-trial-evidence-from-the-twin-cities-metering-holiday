@@ -1,0 +1,5 @@
+source_scope,excluded_examples,reason
+Paper drafts and article variants,"Meters_TRa_05_20_02.doc; Meters_TR_03_26_04.doc; TRB Paper_11_14_01.doc; article.pdf; sdarticle.pdf",Manuscript history rather than data/code archive content.
+Correspondence and review/admin files,"Re_ Transportation Research*.txt; Responses to Reviewer*.pdf; TRA Elsevier transmittal_form-1-RMOT.doc",Submission correspondence and admin material.
+Presentations,"RampMetersOnTrial.ppt; RampMetering.ppt; Slide Draft.ppt; TRB presentation.ppt",Presentation material rather than source data/code.
+Background/reference files,"Haight1.pdf; Lovell.pdf; nsf0203.pdf; query.pdf; policy/history side folders",Reference/background or unrelated support material.

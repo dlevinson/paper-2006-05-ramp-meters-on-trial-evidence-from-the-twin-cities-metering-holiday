@@ -1,0 +1,45 @@
+HW 169 Zone 3A, 3B & 3C PM Peak Ramp Delay Distribution
+
+Ramp delay distributions in freeway zone 3A, 3B and 3C on HW 169 are shown graphically in figure 1.
+
+It seems that ramp delays in PM peak hours (14:55 to 18:10pm) were not distributed evenly within each zone.  Particularly, as travel volumes become very high from 16:55 to 17:55pm, one can find one or two on-ramps in each zone which have much longer delays than others.
+
+Two things can be done to improve it: 
+1. Relocate existing ramp arrival detectors to obtain more accurate traffic counts and install arrival detectors on ramps where it hasn't been installed, because it's almost impossible to distribute delays evenly without accurate real time demand volume data.  
+2. A better ramp coordination algorithm.
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ AUTHOR Lei  Zhang	Page  PAGE 1	 DATE 5/27/01
+
+
+ EMBED Excel.Sheet.8  
+
+
+ EMBED Excel.Sheet.8  
+
+ EMBED Excel.Sheet.8  
+
+
+

@@ -1,0 +1,299 @@
+
+APPENDIX 1: Calculation of Mobility and Equity	
+
+
+Entrance Ramps
+In the network of Highway 169 north bound from I-494 to I-694, there are 15 metered entrance ramps which have sufficient data.  The mobility measures used for entrance ramps are total delay and average delay for each individual vehicle. 
+
+The results presented here are for ramps identified as 3A1, 3A4, 3B2, 3B3, 3B4, 3B5, 3B6, 3C6, 3C7.  These ramps had visual observation of queue lengths recorded.  The data are for March 21, 2000. 
+
+To illustrate the method, for Ramp 3A1, the delay increases steadily till it reaches 68 seconds for the 48th car, again decreasing afterwards. It increases again to reach a peak delay of 203 seconds for the 773rd. In the process the delay follows both intermittently increasing and decreasing trends. Thereafter, the delay starts decreasing... which again is not a uniform process till it reaches 0 for the 1456th car. As we can see, there is significant variation in the delay values throughout the metering time. 
+
+
+The equity implications of the above analysis can be seen by viewing Table 3. This table shows the total delay, number of delayed vehicles, average delay, and redundancy and Gini coefficient equity statistics.  The Gini coefficient (1 is perfect inequity, 0 is perfect equity) vary from 0.27 to 0.59 for the 9 ramps analyzed so far.  The average delay for the ramps varies from 95 to 230 seconds.  There is no direct correlation between the Gini coefficient and average delay on ramp segments.
+
+
+Freeway Segments
+This section shows show the changes of mobility and equity for the freeway segments between the ramp on case and the ramp off case. The calculation results are attached in the two files: Segment_Equity_Ramp_On.xls and Segment_Equity_Ramp_Off.xls.  
+
+We can see that the average travel speed with ramp metering (Ramp On) is 61.5 mph while without (Ramp Off) it is only 26.1 mph.  The average travel delay per mile in the ramp on case is only 8.9 sec/mile, but in ramp off case, it is as long as 126.4 sec/mile. So, it's obvious that the mobility of freeway segments increases significantly because of ramp control. (We also found that the speed differences between the two lanes range from 7.2 mph to 18 mph.)
+
+The following two figures will help us to see the impact of ramp control on freeway segment equity.  Figure 9 shows the relationship between the mobility measure (average travel speed) and the temporal equity measure (Gini coefficient).  Recall, the lower the Gini coefficient, more equity there is, that is the more equally spread is the delay.
+
+
+The average travel speeds for all the 14 freeway segments in the Ramp On case are much higher than those in the Ramp Off case. In contrast with equity measures for OD trips (shown below), the Gini coefficients in the Ramp On case are smaller than those in Ramp Off case which shows that the Ramp On case is more equable.  So, the conclusion is that the relationship between mobility and temporal equity in freeway segments is positive.
+
+Figure 10 illustrates the relationship between the mobility measure (average travel speed) and the spatial equity measure (Gini coefficient).  The trend of mobility and equity is the same as that in Figure 9.  We again see a positive relationship between mobility and spatial equity.   
+
+Table 4 shows the freeflow travel times and speeds for each freeway segment under the two cases, with and without ramp metering.
+
+Mobility and Equity Results on I-94
+
+By the same methodology as the Route 169 analysis, mobility and equity calculation results for I-94 are shown.  The chosen 9.1mile segment is from TH55 to Marion St. which consists of nine entrance ramps and eight freeway segments.    
+
+Free Flow Speed
+Again, freeway delay is defined as the difference between free flow travel time and actual travel time. The free flow travel time of a specified freeway segment is defined as the shortest travel time in this segment of all the five minute intervals.  The following table gives the free flow data we obtained (based on an assumption of 26ft vehicle effective length.Η).  The free flow speed here is higher than that on  Route 169.  
+
+It seems that the free flow speeds of segment 2, 3, 5 and 6 are too high.  A possible reason would be that the actual effective vehicle lengths in these segments are shorter than 26ft. 
+
+Freeway Segment Mobility and Equity 
+This section shows the changes of mobility and equity for the freeway segments between the ramp on case and the ramp off case. The calculation methodology is the same and the only difference is that now we have eight freeway segments instead of 36 OD pairs. The 
+details of calculation results are attached in the following two files:
+ RampOn_Segment_Equity & RampOff_Segment_Equity.  
+
+         Different from the trip results, we can see the improvement of mobility in ramp on case. The average travel speed with ramp metering on case is 61.4 mph while it is only 53.9 mph with ramp metering shut off.  The average travel delay per mile in ramp on case is only 12.1 sec/mile, but in ramp off case, it is as long as 29.9 sec/mile. So, it's obvious that the mobility of freeway segments increases significantly because of ramp control.  
+
+        The following two figures will help us to see the impact of the ramp meter control on freeway segment equity. Figure 1 shows the relationship between the mobility measure (average travel speed) and the temporal equity measure (Gini coefficient).  
+
+The average travel speeds for 7 of the 8 freeway segments (except segment 6) in ramp on case are higher than those in ramp off case. The relationship between mobility (speed) and equity (Gini coefficient) is not very clear in the figure. 
+Figure 2 illustrates the relationship between the mobility measure (average travel speed) and the spatial equity measure (Gini coefficient). The equity measure has a positive relationship with speed. 
+
+
+
+
+
+
+
+
+Table 8: Free Flow Travel Time and Speed
+Freeway Segment
+1
+2
+3
+4
+5
+6
+7
+8
+Segment length (mile)
+1.34
+0.87
+0.74
+0.69
+1.81
+2.04
+0.87
+0.72
+Freeflow TT (sec)
+77
+34.8
+31.9
+36.4
+80
+80.3
+49.6
+42
+Freeflow Speed (mph) 
+62.8
+90.2
+83.3
+68.6
+81.5
+91.3
+63.3
+61.4
+
+Table 3: Mobility and Equity Measure on Entrance Ramps on Route 169
+Entrance Ramp on 169  
+Total 
+Delay(h)
+# of 
+Delayed Veh
+Average 
+Delay(sec)
+Redundan-cy 
+Gini 
+Coeficient
+3A1     Valley View Rd
+43.58
+1464
+107.16
+0.018382
+0.275729
+3A4     Bren Rd
+72.75
+1138
+230.14
+0.021911
+0.300235
+3B2     Excelsior Blvd
+81.33
+1407
+208.09
+0.013703
+0.273634
+3B3     T.H.7
+37.36
+1410
+95.387
+0.03852
+0.412067
+3B4     36th St
+37.50
+715
+188.81
+0.09365
+0.594324
+3B5     Minnetonka Blvd
+27.32
+566
+173.77
+0.050115
+0.441118
+3B6     Cedar Lake Rd
+23.00
+455
+181.98
+0.083469
+0.550404
+3C6     Plymouth Ave
+31.08
+773
+144.75
+0.057886
+0.440563
+3C7     Medicine Lake Rd
+46.21
+962
+172.93
+0.036535
+0.370871
+
+
+Redundancy of 9 sites
+Gini of 9 sites
+0.015034
+0.124947
+
+Table 4: Free Flow Travel Time and Speed: 
+Ramp On and Ramp Off Cases, Route 169
+From
+To
+Segment length (Mile)
+Ramp off free flow Travel Time(Sec)
+Ramp on free flow travel time (sec)
+Ramp off free flow speed (mph)
+Ramp on free flow speed (mph)
+3A1
+3A2
+1.42
+71.7
+64.8
+71.5
+79.2
+3A3
+3A4
+0.55
+33
+28.6
+60.2
+69.5
+3B2
+3B3
+0.74
+77.5
+37.9
+34.3
+70.1
+3B3
+3B4
+0.3
+32.9
+18
+32.5
+59.5
+3B4
+3B5
+0.43
+35.4
+23.3
+43.7
+66.4
+3B5
+3B6
+0.39
+25.7
+18.3
+55.2
+77.4
+3B6
+3C1
+1.33
+81.9
+63.7
+58.3
+75
+3C1
+3C2
+0.22
+15.7
+12.1
+51.3
+66.6
+3C2
+3C3
+0.19
+13.2
+10.1
+51.3
+67
+3C3
+3C4
+0.26
+22.1
+16.3
+42.9
+58.3
+3C4
+3C5
+0.24
+13.9
+11.2
+61.6
+76.2
+3C5
+3C6
+0.6
+48.6
+32.3
+44.4
+66.8
+
+
+
+
+
+Figure 14.  Average Travel Speed and Temporal Gini coefficient
+
+
+
+
+
+
+
+
+Figure 15 Average Travel Speed and Spatial Gini Coefficient
+
+
+
+
+Figure 9: Relationship Between Average Travel Speed and Temporal Gini Coefficient on Freeway Segments on Route 169
+
+
+
+
+Figure 10: Relationship Between Average Travel Speed and Spatial Gini Coefficient on Freeway Segments on Route 169
+
+
+Figure 11: Relationship Between Temporal Equity and Mobility 
+(Speed) Route 169
+
+
+ Note that if the mobility measure used in the above two figures is delay per mile not average travel speed, the  relationship between mobility and equity is hard to tell.  The probable reason is that the difference of means of delay per mile in the two ramp metering cases (on & off) is too large.  The average delay per mile in the Ramp On case is only 8.9 sec/mile while in the Ramp Off case it's 126.4 sec/mile.  We know that two things contribute to the change of Gini coefficient: mean and variance.  So, when we use Gini coefficient as an equity measure, the smaller the difference between the means of two series of data, the more reliable of the results.
+Η If using 22ft, the free flow speed will decrease proportionally. 
+
+
+Equity
+
+
+

@@ -1,0 +1,6 @@
+file,modernized_file,sheets_checked,dimensions_or_scope,formula_cells,role
+TH169_mobility_equity.xls,TH169_mobility_equity.xlsx,TH169_mobility_equity,A1:M108,0,Derived mobility and equity results for TH169.
+TH169_accessibility.xls,TH169_accessibility.xlsx,TH169_accessibility,A1:G42,0,Derived accessibility results for TH169.
+TH169_productivity.xls,TH169_productivity.xlsx,TH169_productivity,A1:C38,0,Derived productivity results for TH169.
+TH169_consumer_surplus.xls,TH169_consumer_surplus.xlsx,TH169_consumer_surplus,A1:D37,0,Derived consumer-surplus results for TH169.
+Ramp Meters_Graph.xls,Ramp Meters_Graph.xlsx,"Regression Results; Data; Chart1","Regression Results A1:I18; Data A1:P67; Chart1 empty placeholder",258,Ramp-meter installation graph and regression/chart source data.
